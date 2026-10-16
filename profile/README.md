@@ -1,4 +1,4 @@
-# Pegada Rede 
+# CarbonTrace 
 **AI LAB MAKERS - PROJETO 03 / ESG / INVENTÁRIO DE EMISSÕES**
 
 ---
